@@ -39,7 +39,7 @@
 - jetty-server-9.x
 - kafka-0.11.x/1.x/2.x
 - kotlin-coroutine
-- lettuce-5.x
+- lettuce-5.x/6.x
 - light4j
 - mariadb-2.x
 - memcache-2.x
